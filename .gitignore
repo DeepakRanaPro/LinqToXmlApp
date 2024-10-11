@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/LinqToXmlApp/LinqToXmlApp/bin/Debug/net6.0
+/LinqToXmlApp/LinqToXmlApp/obj
+/LinqToXmlApp/.vs/LinqToXmlApp
